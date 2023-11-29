@@ -1,5 +1,5 @@
 # Chat-Bot
-Description :
+Description : </br>
 Introducing a friendly and interactive chatbot designed to engage in natural conversations with users. This chatbot employs a rule-based system, where it analyzes user inputs to determine the most suitable response. Using a set of recognized words and required conditions, the chatbot calculates the probability of various responses, ensuring dynamic and context-aware interactions.
 
 Key Features:

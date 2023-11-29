@@ -1,5 +1,5 @@
 # Chat-Bot
-Description : 
+**Description : **
 
 Introducing a friendly and interactive chatbot designed to engage in natural conversations with users. This chatbot employs a rule-based system, where it analyzes user inputs to determine the most suitable response. Using a set of recognized words and required conditions, the chatbot calculates the probability of various responses, ensuring dynamic and context-aware interactions.
 
@@ -10,7 +10,7 @@ Probability-based Responses: Responses are dynamically selected based on the lik
 Recognized and Required Words: Responses are influenced by the presence of recognized words and required conditions in the user's message.
 Single-response Option: Certain responses can be designated as standalone, independent choices.
 
-Variables mapping :
+** Variables mapping :**
 
 User Message: This refers to the entire input provided by the user, which is typically a sentence or a sequence of words. It's a string.
 
